@@ -1,0 +1,7 @@
+.timer {
+  font-size: 5rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+  margin: 24px 0;
+}
